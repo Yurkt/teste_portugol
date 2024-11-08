@@ -1,5 +1,5 @@
 https://raw.github.com/Yurkt/teste_portugol/main/Inicio.png *
-https://raw.github.com/Yurkt/teste_portugol/main/Selecionado%20login.png *
-https://raw.github.com/Yurkt/teste_portugol/main/Selecionado%20Cadastro.png *
-https://raw.github.com/Yurkt/teste_portugol/main/Selecionado%20Loja.png *
-https://raw.github.com/Yurkt/teste_portugol/main/Tela%20inicial.png *;
+https://raw.github.com/Yurkt/teste_portugol/main/Selecionadologin.png *
+https://raw.github.com/Yurkt/teste_portugol/main/SelecionadoCadastro.png *
+https://raw.github.com/Yurkt/teste_portugol/main/SelecionadoLoja.png *
+https://raw.github.com/Yurkt/teste_portugol/main/Telainicial.png *;
