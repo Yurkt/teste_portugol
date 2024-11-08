@@ -2,4 +2,8 @@ https://raw.github.com/Yurkt/teste_portugol/main/Inicio.png *
 https://raw.github.com/Yurkt/teste_portugol/main/Selecionadologin.png *
 https://raw.github.com/Yurkt/teste_portugol/main/SelecionadoCadastro.png *
 https://raw.github.com/Yurkt/teste_portugol/main/SelecionadoLoja.png *
-https://raw.github.com/Yurkt/teste_portugol/main/Telainicial.png *;
+https://raw.github.com/Yurkt/teste_portugol/main/Telainicial.png *
+https://raw.github.com/Yurkt/teste_portugol/main/Email_.png *
+https://raw.github.com/Yurkt/teste_portugol/main/Senha_.png *
+https://raw.github.com/Yurkt/teste_portugol/main/Entrar.png *
+https://raw.github.com/Yurkt/teste_portugol/main/Cadastroselecionado.png *;
