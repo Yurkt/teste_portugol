@@ -16,4 +16,6 @@ https://raw.github.com/Yurkt/teste_portugol/main/CadastroFuncionario.png *
 https://raw.github.com/Yurkt/teste_portugol/main/CadastroClientes.png *
 https://raw.github.com/Yurkt/teste_portugol/main/EnderecoCadastro.png *
 https://raw.github.com/Yurkt/teste_portugol/main/NomeCadastro.png *
-https://raw.github.com/Yurkt/teste_portugol/main/CodigoCadastro.png *;
+https://raw.github.com/Yurkt/teste_portugol/main/CodigoCadastro.png *
+https://raw.github.com/Yurkt/teste_portugol/main/Botaologar.png *
+https://raw.github.com/Yurkt/teste_portugol/main/Cadastroselecionado.png *;
