@@ -9,6 +9,6 @@ https://raw.github.com/Yurkt/teste_portugol/main/Entrar.png *
 https://raw.github.com/Yurkt/teste_portugol/main/Cadastroselecionado.png *
 https://raw.github.com/Yurkt/teste_portugol/main/Botaovoltarselecionado.png *
 https://raw.github.com/Yurkt/teste_portugol/main/Funcionarioselecionado.png *
-https://raw.github.com/Yurkt/teste_portugol/main/ClienteSelecionado.png *
+https://raw.github.com/Yurkt/teste_portugol/main/Clienteselecionado.png *
 https://raw.github.com/Yurkt/teste_portugol/main/Escolhacadastro.png *;
 
