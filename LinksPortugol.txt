@@ -18,4 +18,4 @@ https://raw.github.com/Yurkt/teste_portugol/main/EnderecoCadastro.png *
 https://raw.github.com/Yurkt/teste_portugol/main/NomeCadastro.png *
 https://raw.github.com/Yurkt/teste_portugol/main/CodigoCadastro.png *
 https://raw.github.com/Yurkt/teste_portugol/main/Botaologar.png *
-https://raw.github.com/Yurkt/teste_portugol/main/Cadastroselecionado.png *;
+https://raw.github.com/Yurkt/teste_portugol/main/Cadastrarusuarioselecionado.png *;
