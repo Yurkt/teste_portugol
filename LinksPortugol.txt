@@ -28,4 +28,4 @@ https://raw.github.com/Yurkt/teste_portugol/main/ProdutosFuncionario.png *
 https://raw.github.com/Yurkt/teste_portugol/main/NovoProdutoSelecionado.png *
 https://raw.github.com/Yurkt/teste_portugol/main/Editar.png *
 https://raw.github.com/Yurkt/teste_portugol/main/EditarSelecionado.png *
-https://raw.github.com/Yurkt/teste_portugol/main/MostarClientes.png *;
+https://raw.github.com/Yurkt/teste_portugol/main/MostrarClientes.png *;
