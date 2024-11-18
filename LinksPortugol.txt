@@ -23,4 +23,9 @@ https://raw.github.com/Yurkt/teste_portugol/main/TelaFuncionario.png *
 https://raw.github.com/Yurkt/teste_portugol/main/LogoutSelecionado.png *
 https://raw.github.com/Yurkt/teste_portugol/main/ProdutosSelecionado.png *
 https://raw.github.com/Yurkt/teste_portugol/main/VendasSelecionado.png *
-https://raw.github.com/Yurkt/teste_portugol/main/ClientesSelecionado.png *;
+https://raw.github.com/Yurkt/teste_portugol/main/ClientesSelecionado.png *
+https://raw.github.com/Yurkt/teste_portugol/main/ProdutosFuncionario.png *
+https://raw.github.com/Yurkt/teste_portugol/main/NovoProdutoSelecionado.png *
+https://raw.github.com/Yurkt/teste_portugol/main/Editar.png *
+https://raw.github.com/Yurkt/teste_portugol/main/EditarSelecionado.png *
+https://raw.github.com/Yurkt/teste_portugol/main/MostarClientes.png *;
