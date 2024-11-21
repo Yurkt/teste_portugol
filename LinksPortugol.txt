@@ -29,4 +29,7 @@ https://raw.github.com/Yurkt/teste_portugol/main/NovoProdutoSelecionado.png *
 https://raw.github.com/Yurkt/teste_portugol/main/Editar.png *
 https://raw.github.com/Yurkt/teste_portugol/main/EditarSelecionado.png *
 https://raw.github.com/Yurkt/teste_portugol/main/MostrarClientes.png *
-https://raw.github.com/Yurkt/teste_portugol/main/CadastroProduto.png *;
+https://raw.github.com/Yurkt/teste_portugol/main/CadastroProduto.png *
+https://raw.github.com/Yurkt/teste_portugol/main/EdicaoProdutos.png *
+https://raw.github.com/Yurkt/teste_portugol/main/ConfirmarSelecionado.png *
+https://raw.github.com/Yurkt/teste_portugol/main/DeletarSelecionado.png *;
