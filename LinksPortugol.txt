@@ -32,4 +32,10 @@ https://raw.github.com/Yurkt/teste_portugol/main/MostrarClientes.png *
 https://raw.github.com/Yurkt/teste_portugol/main/CadastroProduto.png *
 https://raw.github.com/Yurkt/teste_portugol/main/EdicaoProdutos.png *
 https://raw.github.com/Yurkt/teste_portugol/main/ConfirmarSelecionado.png *
-https://raw.github.com/Yurkt/teste_portugol/main/DeletarSelecionado.png *;
+https://raw.github.com/Yurkt/teste_portugol/main/DeletarSelecionado.png *
+https://raw.github.com/Yurkt/teste_portugol/main/CarrinhoCliente.png *
+https://raw.github.com/Yurkt/teste_portugol/main/ConfirmarCarrinho.png *
+https://raw.github.com/Yurkt/teste_portugol/main/RetirarCarrinho.png *
+https://raw.github.com/Yurkt/teste_portugol/main/CarrinhoSelecionado.png *
+https://raw.github.com/Yurkt/teste_portugol/main/ConfirmarCarrinho.png *
+https://raw.github.com/Yurkt/teste_portugol/main/Loja.png *;
