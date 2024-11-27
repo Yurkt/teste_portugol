@@ -38,4 +38,12 @@ https://raw.github.com/Yurkt/teste_portugol/main/ConfirmarCarrinho.png *
 https://raw.github.com/Yurkt/teste_portugol/main/RetirarCarrinho.png *
 https://raw.github.com/Yurkt/teste_portugol/main/CarrinhoSelecionado.png *
 https://raw.github.com/Yurkt/teste_portugol/main/PerfilSelecionado.png *
-https://raw.github.com/Yurkt/teste_portugol/main/Loja.png *;
+https://raw.github.com/Yurkt/teste_portugol/main/Loja.png *
+https://raw.github.com/Yurkt/teste_portugol/main/LojaNaoLogado.png *
+https://raw.github.com/Yurkt/teste_portugol/main/SharkoB550M.png *
+https://raw.github.com/Yurkt/teste_portugol/main/DukeCooler.png *
+https://raw.github.com/Yurkt/teste_portugol/main/Tresher5600.png *
+https://raw.github.com/Yurkt/teste_portugol/main/Sharko4090.png *
+https://raw.github.com/Yurkt/teste_portugol/main/Owl6600.png *
+https://raw.github.com/Yurkt/teste_portugol/main/Maestro5.png *
+https://raw.github.com/Yurkt/teste_portugol/main/DukeCase.png *;
