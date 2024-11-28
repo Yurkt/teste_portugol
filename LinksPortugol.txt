@@ -46,4 +46,5 @@ https://raw.github.com/Yurkt/teste_portugol/main/Tresher5600.png *
 https://raw.github.com/Yurkt/teste_portugol/main/Sharko4090.png *
 https://raw.github.com/Yurkt/teste_portugol/main/Owl6600.png *
 https://raw.github.com/Yurkt/teste_portugol/main/Maestro5.png *
-https://raw.github.com/Yurkt/teste_portugol/main/DukeCase.png *;
+https://raw.github.com/Yurkt/teste_portugol/main/DukeCase.png *
+https://raw.github.com/Yurkt/teste_portugol/main/TelaVendas.png *;
